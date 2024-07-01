@@ -1,3 +1,3 @@
 # exampleRepo
 My first repository!
-I'm learning about GitHub.
+<space> I'm learning about GitHub.
